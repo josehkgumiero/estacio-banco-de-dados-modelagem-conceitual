@@ -1,4 +1,4 @@
-# Banco de DadosModelagem Conceitual
+# Banco de Dados Modelagem Conceitual
 O projeto está disponível em: [Projeto de Banco de Dados: Modelagem Conceitual](Documentation/Projeto_de_Banco_de_Dados_Modegem_Conceitual.docx)
 # Resumo
 Este projeto apresenta os fundamentos do desenvolvimento de um banco de dados, com foco na modelagem conceitual e nas etapas que compõem o processo de projeto de banco de dados. O material aborda o levantamento de requisitos, a construção do Diagrama Entidade-Relacionamento (DER), a identificação de entidades, relacionamentos, atributos e cardinalidades, além da evolução para os projetos lógico e físico. Também são explorados conceitos como atributos simples e compostos, especialização/generalização, entidade associativa e agregação, demonstrando como esses elementos contribuem para representar corretamente as regras de negócio e servir de base para a implementação de bancos de dados relacionais.
